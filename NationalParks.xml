@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7888</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Saguaro National Park</Name>
+		<Phone>520-733-5153</Phone>
+		<Address NearestAirport="Tucson">
+			<Number>3693</Number>
+			<Street>South Old Spanish Trail</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.6">
+		<Name>Petrified Forest National Park</Name>
+		<Phone>928-524-6228</Phone>
+		<Address NearestAirport="Showlow">
+			<Number>1</Number>
+			<Street>Petrified Forest Road</Street>
+			<City>Holbrook</City>
+			<State>AZ</State>
+			<Zip>86025</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Montezuma Castle National Monument</Name>
+		<Phone>928-567-3322</Phone>
+		<Address NearestAirport="Prescott">
+			<Number>2800</Number>
+			<Street>Montezuma Castle Road</Street>
+			<City>Camp Verde</City>
+			<State>AZ</State>
+			<Zip>86322</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Gates of the Arctic National Park</Name>
+		<Phone>907-457-5752</Phone>
+		<Address NearestAirport="Fairbanks">
+			<Number>1</Number>
+			<Street>Park Road</Street>
+			<City>Anaktuvuk Pass</City>
+			<State>AK</State>
+			<Zip>99721</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Kobuk Valley National Park</Name>
+		<Phone>907-442-3890</Phone>
+		<Phone>907-442-3891</Phone>
+		<Address NearestAirport="Kotzebue">
+			<Number>1713</Number>
+			<Street>1st Avenue</Street>
+			<City>Kotzebue</City>
+			<State>AK</State>
+			<Zip>99752</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Shenandoah National Park</Name>
+		<Phone>540-999-3500</Phone>
+		<Address NearestAirport="Charlottesville">
+			<Number>3655</Number>
+			<Street>US Highway 211 East</Street>
+			<City>Luray</City>
+			<State>VA</State>
+			<Zip>22835</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Great Basin National Park</Name>
+		<Phone>775-234-7331</Phone>
+		<Phone>775-234-7330</Phone>
+		<Address NearestAirport="Elko">
+			<Number>100</Number>
+			<Street>Great Basin National Park Road</Street>
+			<City>Baker</City>
+			<State>NV</State>
+			<Zip>89311</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.6">
+		<Name>Theodore Roosevelt National Park</Name>
+		<Phone>701-623-4466</Phone>
+		<Address NearestAirport="Williston">
+			<Number>315</Number>
+			<Street>2nd Avenue</Street>
+			<City>Medora</City>
+			<State>ND</State>
+			<Zip>58645</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Isle Royale National Park</Name>
+		<Phone>906-482-0984</Phone>
+		<Address NearestAirport="Hancock">
+			<Number>87</Number>
+			<Street>North Ripley Street</Street>
+			<City>Houghton</City>
+			<State>MI</State>
+			<Zip>49931</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Yosemite National Park</Name>
+		<Phone>209-372-0200</Phone>
+		<Address NearestAirport="Fresno Yosemite International">
+			<Number>9039</Number>
+			<Street>Village Drive</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+</NationalParks>
